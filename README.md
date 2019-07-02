@@ -43,11 +43,11 @@ Read first the docs marked with **[Basic]**, then the **[Intermediate]** ones an
 
 ## Documentation list
 > Comprehensive list of all the documentation sources that are worthwhile
-- Docs: https://docs.neo.org/en-us/index.html
-- Developer guide: https://docs.neo.org/developerguide/en/
-- Community tutorials: https://docs.neo.org/communitydoc.html
-- NEO Tutorial: https://github.com/neo-ngd/NEO-Tutorial
-- NGD reference: https://neo-ngd.github.io/reference/
-- API reference: https://docs.neo.org/developerguide/en/api/index.html
-- Yellowpaper/Specification: https://github.com/NeoResearch/yellowpaper or https://github.com/neo-project/specification
-- NEPs: https://github.com/neo-project/proposals
+- [Docs](https://docs.neo.org/en-us/index.html)
+- [Developer guide](https://docs.neo.org/developerguide/en/articles/introduction.html)
+- [Community tutorials](https://docs.neo.org/communitydoc.html)
+- [NEO Tutorial](https://github.com/neo-ngd/NEO-Tutorial)
+- [NGD reference](https://neo-ngd.github.io/reference/)
+- [API reference](https://docs.neo.org/developerguide/en/api/index.html)
+- [Yellowpaper](https://github.com/NeoResearch/yellowpaper) / [Specification](https://github.com/neo-project/specification) (they are the same)
+- [NEPs (RFCs for NEO)](https://github.com/neo-project/proposals)
