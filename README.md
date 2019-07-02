@@ -14,6 +14,27 @@
 ## How to use this list
 Read first the docs marked with **[Basic]**, then the **[Intermediate]** ones and finally the **[Advanced]** ones.
 
+## [Basic] I want to create a dApp!
+
+
+## [Basic] I've developed a dApp in Ethereum before, how do I develop one for NEO?
+Equivalences:
+- MetaMask = NEOLine or Teemo
+  - NEOLine: [Chrome extension](https://chrome.google.com/webstore/detail/neoline/cphhlgmgameodnhkjdmkpanlelnlohao) | [Docs](https://neoline.cn/dapi/)
+  - Teemo: [Chrome extension](https://chrome.google.com/webstore/detail/teemo-wallet/faddjfhplkcfackpcjnmmeapchnkobjk) | [Docs](https://dapi.nel.group/en/)
+- Solidity = C# or [Python](https://github.com/CityOfZion/neo-python)
+  - There are more languages that can be used to code smart contracts, such as Java or Go, but the compilers and the tooling around them are not as mature as the ones available for C# and Python so use at your own risk.
+  - Remix IDE = [Neocompiler](https://neocompiler.io/#!/ecolab/compilers)
+  - Differences:
+    - NEO smart contracts can't send NEO or GAS by themselves, they can only send NEP-5 tokens. NEO smart contracts can receive and store NEO or GAS, but to transfer these a transaction must be crafted and sent by a node in the NEO network.
+    - It's not possible to get the NEO or GAS balance of an account (including the smart contract) in an easy way.
+    - NEO smart contracts can return data of arbitrary length, so returning dynamic arrays is possible.
+- ERC20 = [NEP-5](https://github.com/neo-project/proposals/blob/master/nep-5.mediawiki)
+- ERC721 = [NEP-11](https://github.com/neo-project/proposals/pull/41)
+- ERC165 = [NEP-10](https://github.com/neo-project/proposals/blob/master/nep-10.mediawiki)
+- ETH = GAS
+- EVM = NeoVM
+
 ## [Basic] How do smart contracts work?
 - [Introduction to smart contracts](https://docs.neo.org/en-us/sc/gettingstarted/introduction.html)
 
@@ -36,10 +57,18 @@ Read first the docs marked with **[Basic]**, then the **[Intermediate]** ones an
 - [Syscall reference](https://docs.neo.org/developerguide/en/articles/smart_contract.html)
 
 ## [Advanced] How does the P2P protocol work?
-- [Message reference](https://docs.neo.org/developerguide/en/articles/network_protocol.html)
+- [Overview, examples and quick reference](https://docs.neo.org/developerguide/en/articles/network_protocol.html)
+- [Detailed reference](https://docs.neo.org/en-us/network/network-protocol.html)
+- [Explanation and reference of messages used for consensus formation](https://docs.neo.org/developerguide/en/articles/consensus/consensus_protocol.html)
 
-## Meta information
+## [Extra] Meta information
 - [Explanation of the requisites needed to become a core developer](https://neo-ngd.github.io/reference/Becoming_Core_Dev/How-to-Become-A-NEO-Core-Developer.html)
+- [NEO Enhancement Proposals (NEPs)](https://github.com/neo-project/proposals). Not really useful, I'd recommend only reading NEP-5. I'd delay reading the other NEPs till you find a reference to them and want to know more about a specific one.
+
+## [Extra] Research
+- NeoFS - Distributed file system (like IPFS) that uses zero knowledge proofs
+- NeoQS - An adaptation of the NEO protocol that uses quantum resistant algorithms
+- dBFT 2.0 - An adaptation of pBFT for smart contract blockchains
 
 ## Documentation list
 > Comprehensive list of all the documentation sources that are worthwhile
