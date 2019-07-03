@@ -51,9 +51,10 @@ Equivalences:
 - [Roadmap and new features in 3.0](https://medium.com/neo-smart-economy/roadmap-of-neo-3-0-development-e2ae64edf226)
 
 ## [Advanced] How does NeoVM work?
+- MUST read: [NeoVM tutorial](https://neoresearch.io/nvm-learn/)
 - NeoVM overview and future upgrades in [article form](https://medium.com/neo-smart-economy/a-deep-dive-into-neovm-neocontract-e470c2c3afb0) and [video form](https://www.youtube.com/watch?v=fLppte-guYE)
 - [Explanation of stack isolation and why it is needed](https://medium.com/neo-smart-economy/upgrade-of-neovm-36ee232835d9)
-- [NeoVM brief explanation and Opcode reference](https://docs.neo.org/developerguide/en/articles/neo_vm.html)
+- [NeoVM architecture explanation and Opcode reference](https://docs.neo.org/developerguide/en/articles/neo_vm.html)
 - [Syscall reference](https://docs.neo.org/developerguide/en/articles/smart_contract.html)
 
 ## [Advanced] How does the P2P protocol work?
