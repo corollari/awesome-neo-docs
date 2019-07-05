@@ -22,7 +22,7 @@ Equivalences:
 - MetaMask = NEOLine or Teemo
   - NEOLine: [Chrome extension](https://chrome.google.com/webstore/detail/neoline/cphhlgmgameodnhkjdmkpanlelnlohao) | [Docs](https://neoline.cn/dapi/)
   - Teemo: [Chrome extension](https://chrome.google.com/webstore/detail/teemo-wallet/faddjfhplkcfackpcjnmmeapchnkobjk) | [Docs](https://dapi.nel.group/en/)
-- Solidity = C# or [Python](https://github.com/CityOfZion/neo-python)
+- Solidity = [C#](https://github.com/neo-project/neo-compiler) or [Python](https://github.com/cityOfZion/neo-boa)
   - There are more languages that can be used to code smart contracts, such as Java or Go, but the compilers and the tooling around them are not as mature as the ones available for C# and Python so use at your own risk.
   - Remix IDE = [Neocompiler](https://neocompiler.io/#!/ecolab/compilers)
   - Differences:
