@@ -1,8 +1,8 @@
 <p align="center">
-  <img
-    src="https://neo-cdn.azureedge.net/images/neo_logo.svg"
-    width="250px"
-  >
+  <a href="https://www.youtube.com/watch?v=N5b4_5hvOog"><img
+    src="https://raw.githubusercontent.com/corollari/awesome-neo-docs/master/fast_learning.png"
+    height="150px"
+   ></a>
 </p>
 
 <h1 align="center">Awesome NEO Docs</h1>
