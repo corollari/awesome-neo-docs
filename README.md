@@ -14,9 +14,6 @@
 ## How to use this list
 Read first the docs marked with **[Basic]**, then the **[Intermediate]** ones and finally the **[Advanced]** ones.
 
-## [Basic] I want to create a dApp!
-
-
 ## [Basic] I've developed a dApp in Ethereum before, how do I develop one for NEO?
 Equivalences:
 - MetaMask = NEOLine or Teemo
