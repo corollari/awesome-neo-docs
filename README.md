@@ -33,7 +33,7 @@ Equivalences:
 - EVM = NeoVM
 
 ## [Basic] How do smart contracts work?
-- [Introduction to smart contracts](https://docs.neo.org/en-us/sc/gettingstarted/introduction.html)
+- [Introduction to smart contracts](https://docs.neo.org/docs/en-us/sc/gettingstarted/introduction.html)
 
 ## [Basic] How does consensus formation work in NEO?
 1. Read [this medium article](https://medium.com/neo-smart-economy/neos-dbft-2-0-single-block-finality-with-improved-availability-6a4aca7bd1c4)
@@ -41,7 +41,7 @@ Equivalences:
 3. Extra:
   * [To understand the old version of dBFT better](https://docs.neo.org/developerguide/en/articles/consensus/consensus_algorithm.html)
   * At the end of the day NGD owns a huge amount of NEO so they are the once deciding who will be the validators. [Understand how NGD picks the validators](https://neo-ngd.github.io/reference/How-To-Become-NEO-Consensus-Node.html)
-  * To understand the new version of dBFT better, skim through [this paper](https://docs.neo.org/en-us/08_dbft.pdf) (you don't have to read it all as it's quite verbose)
+  * To understand the new version of dBFT better, skim through [this paper](https://raw.githubusercontent.com/NeoResearch/yellowpaper/master/releases/08_dBFT.pdf) (you don't have to read it all as it's quite verbose)
   * To understand the attack that lead to the creation of dBFT 2.0, read [this issue comment](https://github.com/neo-project/neo/pull/320#issuecomment-422308894)
 
 ## [Basic] NEO 3.0
@@ -56,7 +56,7 @@ Equivalences:
 
 ## [Advanced] How does the P2P protocol work?
 - [Overview, examples and quick reference](https://docs.neo.org/developerguide/en/articles/network_protocol.html)
-- [Detailed reference](https://docs.neo.org/en-us/network/network-protocol.html)
+- [Detailed reference](https://docs.neo.org/docs/en-us/tooldev/network-protocol.html)
 - [Explanation and reference of messages used for consensus formation](https://docs.neo.org/developerguide/en/articles/consensus/consensus_protocol.html)
 
 ## [Extra] Meta information
@@ -70,9 +70,9 @@ Equivalences:
 
 ## Documentation list
 > Comprehensive list of all the documentation sources that are worthwhile
-- [Docs](https://docs.neo.org/en-us/index.html)
+- [Docs](https://docs.neo.org/docs/en-us/index.html)
 - [Developer guide](https://docs.neo.org/developerguide/en/articles/introduction.html)
-- [Community tutorials](https://docs.neo.org/communitydoc.html)
+- [Community articles](https://docs.neo.org/articles/en-us/index.html)
 - [NEO Tutorial](https://github.com/neo-ngd/NEO-Tutorial)
 - [NGD reference](https://neo-ngd.github.io/reference/)
 - [API reference](https://docs.neo.org/developerguide/en/api/index.html)
