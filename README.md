@@ -29,7 +29,7 @@ Equivalences:
 - ERC20 = [NEP-5](https://github.com/neo-project/proposals/blob/master/nep-5.mediawiki)
 - ERC721 = [NEP-11](https://github.com/neo-project/proposals/pull/41)
 - ERC165 = [NEP-10](https://github.com/neo-project/proposals/blob/master/nep-10.mediawiki)
-- ETH = GAS
+- Ether = GAS (GAS fulfills all the functions of ether, the other token, NEO, is only used for voting the validators)
 - EVM = NeoVM
 
 ## [Basic] How do smart contracts work?
