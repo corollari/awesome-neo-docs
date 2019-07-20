@@ -16,9 +16,15 @@ Read first the docs marked with **[Basic]**, then the **[Intermediate]** ones an
 
 ## [Basic] I've developed a dApp in Ethereum before, how do I develop one for NEO?
 Equivalences:
-- MetaMask = NEOLine or Teemo
+- MetaMask = NEOLine, Teemo or O3
   - NEOLine: [Chrome extension](https://chrome.google.com/webstore/detail/neoline/cphhlgmgameodnhkjdmkpanlelnlohao) | [Docs](https://neoline.cn/dapi/)
   - Teemo: [Chrome extension](https://chrome.google.com/webstore/detail/teemo-wallet/faddjfhplkcfackpcjnmmeapchnkobjk) | [Docs](https://dapi.nel.group/en/)
+  - O3: [Desktop wallet](https://o3.network) | [Docs](https://docs.o3.network/docs/dapiIntro/)
+- Web3 = [neon-js](https://github.com/CityOfZion/neon-js) | [Docs](https://cityofzion.io/neon-js/) | [JSFiddle Examples](https://github.com/CityOfZion/neon-js/blob/master/examples/browser/README.md)
+- Mist = [nOS](https://nos.io)
+- Geth = [neo-cli](https://github.com/neo-project/neo-cli) or [neo-python](https://github.com/CityOfZion/neo-python)
+- Ganache = [neo-local](https://github.com/CityOfZion/neo-local)
+- ENS = [NNS](https://neons.name/index_En.html)
 - Solidity = [C#](https://github.com/neo-project/neo-compiler) or [Python](https://github.com/cityOfZion/neo-boa)
   - There are more languages that can be used to code smart contracts, such as Java or Go, but the compilers and the tooling around them are not as mature as the ones available for C# and Python so use at your own risk.
   - Remix IDE = [Neocompiler](https://neocompiler.io/#!/ecolab/compilers)
