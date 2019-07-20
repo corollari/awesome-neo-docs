@@ -30,7 +30,6 @@ Equivalences:
   - Remix IDE = [Neocompiler](https://neocompiler.io/#!/ecolab/compilers)
   - Differences:
     - NEO smart contracts can't send NEO or GAS by themselves, they can only send NEP-5 tokens. NEO smart contracts can receive and store NEO or GAS, but to transfer these a transaction must be crafted and sent by a node in the NEO network.
-    - It's not possible to get the NEO or GAS balance of an account (including the smart contract) in an easy way.
     - NEO smart contracts can return data of arbitrary length, so returning dynamic arrays is possible.
 - ERC20 = [NEP-5](https://github.com/neo-project/proposals/blob/master/nep-5.mediawiki)
 - ERC721 = [NEP-11](https://github.com/neo-project/proposals/pull/41)
