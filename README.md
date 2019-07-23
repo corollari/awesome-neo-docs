@@ -1,3 +1,6 @@
+
+<h3 align="center">All development has been moved to <a href="https://github.com/CityOfZion/awesome-neo-docs">City Of Zion</a></h3>
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=N5b4_5hvOog"><img
     src="https://raw.githubusercontent.com/corollari/awesome-neo-docs/master/fast_learning.png"
